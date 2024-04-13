@@ -1,2 +1,2 @@
 # Testowanie-klas
-Kod zawiera proste test klas 
+Kod zawiera proste testy klas 
